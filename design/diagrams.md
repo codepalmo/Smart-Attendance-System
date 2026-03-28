@@ -1,6 +1,5 @@
-# Project Design Documentation
+# Project Design: Use Case Diagram
 
-## 1. Use Case Diagram
-This diagram illustrates the system boundary and the interactions between the Student and Professor actors.
+This diagram shows how different users (Students and Professors) interact with the Smart Attendance System.
 
 ![Use Case Diagram](design_Smart_Attendance_System.png)
