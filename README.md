@@ -15,3 +15,6 @@ I chose the **Model-View-Controller (MVC)** architecture for this project:
 1. **Model (Data)**: Manages student records and attendance logs.
 2. **View (Interface)**: The screens the students and teachers interact with.
 3. **Controller (Logic)**: The "brain" that checks if a student is actually enrolled before marking them present.
+
+## 📁 Project Documentation
+Detailed design diagrams including Use Case and ERD can be found in the [Design Folder](./design/diagrams.md).
