@@ -18,3 +18,9 @@ I chose the **Model-View-Controller (MVC)** architecture for this project:
 
 ## 📁 Project Documentation
 Detailed design diagrams including Use Case and ERD can be found in the [Design Folder](./design/diagrams.md).
+
+## 🚀 Tech Stack
+- **Language:** Python 3.x
+- **Libraries:** OpenCV (Face Recognition), NumPy, Pandas
+- **Database:** SQLite / MySQL
+- **UI Framework:** Tkinter or Flask (Web-based)
