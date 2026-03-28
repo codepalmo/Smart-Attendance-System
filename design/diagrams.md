@@ -5,6 +5,6 @@ This diagram shows how different users (Students and Professors) interact with t
 ![Use Case Diagram](design_Smart_Attendance_System.png)
 
 ## 2. Entity Relationship Diagram (ERD)
-This diagram shows the database schema and how the Student data relates to Attendance records.
+This diagram represents the database structure, showing how students connect to their attendance status.
 
-![ERD Diagram](erd-diagram.png)
+![ER Diagram](er_diagram_Smart_Attendance_System.png)
